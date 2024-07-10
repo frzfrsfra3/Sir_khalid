@@ -7,6 +7,7 @@ my other projects using yii:
 1- developing websocket on dev2.makyee.xyz
 2- developing CRUD for users on https://github.com/frzfrsfra3/yii_sample
 notes:
+
 I attached videos bout my test in videos folder
 checks:
 Authentication: Secure user authentication processes, such as signin, signup and the verify user email logic. done (in main page login and register)
